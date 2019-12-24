@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());     //The main() function is the starting point of all flutter apps.
-{
 
 class MyApp extends StatelessWidget       //Inheritance.
 {
